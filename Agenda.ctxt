@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Agenda
+comment1.params=nota
+comment1.target=void\ addNota(Nota)
+comment2.params=
+comment2.target=void\ listarNotas()
+comment3.params=
+comment3.target=void\ contarNotas()
+comment4.params=id
+comment4.target=void\ borrarNota(int)
+numComments=5
